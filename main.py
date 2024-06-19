@@ -9,7 +9,7 @@ def get_image():
     """
 
     img_url = \
-        './DSC_0455.JPG'
+        'https://upload.wikimedia.org/wikipedia/commons/e/e8/151011-010_Hopetoun_Falls.jpg'
 
     im = imread(img_url)
 
